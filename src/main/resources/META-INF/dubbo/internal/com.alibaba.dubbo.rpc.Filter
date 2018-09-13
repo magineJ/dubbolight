@@ -1,0 +1,3 @@
+provideraccesslog=com.bj58.qf.dubbolight.core.filter.ProviderAccessLogFilter
+consumeraccesslog=com.bj58.qf.dubbolight.core.filter.ConsumerAccessLogFilter
+tracing=brave.dubbo.rpc.TracingFilter
